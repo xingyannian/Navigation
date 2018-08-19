@@ -1,0 +1,193 @@
+/*https://color.adobe.com/zh/ElectricSharedMobilityheader-color-theme-11089983/edit/?copy=true&base=2&rule=Custom&selected=0&name=%E5%89%AF%E6%9C%AC%E4%BE%86%E6%BA%90%20ElectricSharedMobilityheader&mode=rgb&rgbvalues=0.00392156862745098,0.3411764705882353,0.5411764705882353,0,0.611764705882353,0.8352941176470589,0.011764705882352941,0.6705882352941176,0.8784313725490196,0.20392156862745098,0.1843137254901961,0.17254901960784313,0.9529411764705882,0.2627450980392157,0.28627450980392155&swatchOrder=0,1,2,3,4*/
+a{
+  text-decoration: none;
+}
+
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+.right {
+  float: right;
+}
+#banner {
+  height: 3px;
+  background-color: #F34349;
+}
+
+#logo {
+  background-color: #f2f2f2;
+}
+
+.logo-img {
+  height: 100px;
+  float: left;
+  padding: 5px 0px;
+  margin-right: 20px;
+}
+
+#logo h3 {
+  margin-top: 40px;
+  text-align: left;
+  color: #342F2C;
+}
+
+#seacher-form{
+  padding-top: 40px;
+  text-align: center;
+}
+
+#seacher-form input{
+  height: 29px;
+}
+menu {
+  margin: 0px;
+  padding: 0px;
+}
+
+.menu {
+  background-color: #01578A;
+}
+
+.menu ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.menu li {
+  float: left;
+  list-style: none;
+  padding: 0px;
+}
+
+.menu li a {
+  line-height: 54px;
+  display: block;
+  color: white;
+  padding: 0px 20px;
+  text-decoration-line: none;
+  font-size:18px;
+}
+
+.menu li a.active, .menu li a:hover {
+  background-color: #F34349;
+  color: #342F2C;
+  font-weight: bold;
+}
+
+.clear {
+  clear: both;
+  height: 0px;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 0;
+}
+
+
+content {
+  display: block;
+  padding: 20px 0px;
+  font-size:16px;
+  line-height: 20px;
+  min-height: 400px;
+}
+
+content p {
+  text-indent: 28px;
+}
+
+content img {
+  text-align: center;
+}
+
+
+.item img {
+  padding: 0px;
+}
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 10px;
+}
+
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #fff;
+  border-top: 2px solid #F34349;
+  background-color: #01578A;
+  text-align: center;
+}
+
+.leftMenu ul li{
+    list-style: none;
+    margin:0px 0px;
+}
+
+.leftMenu ul li a{
+    padding: 0px 0px 0px 10px;
+    display: block;
+    text-decoration: none;
+    color: black;
+    border-right: 5px solid #46B29D;
+    border-left: 5px solid #46B29D;
+    border-bottom: 1px dotted #46B29D;
+    border-top: 1px dotted #46B29D;
+    margin:4px 0px;
+}
+
+.leftMenu ul li a.active, .leftMenu ul li a:hover{
+    color: white;
+    font-weight: bold;
+    background-color: #46B29D;
+    border-right: 6px solid #E37B40;
+    border-left: 6px solid #E37B40;
+}
+
+.bread{
+  border: 1px solid #ccc;
+  display: block;
+  width: 100%;
+  text-decoration: none;
+  color: #342F2C;
+  padding-right: 10px;
+}
+.bread:hover{
+  background-color: #f5f5f5;
+  text-decoration: none;
+}
+.nav-logo{
+  width: 45px;
+  height: 45px;
+  padding: 10px;
+}
+.nav-txt{
+  height: 100%;
+  vertical-align: middle;
+}
+.col-jianju{
+  margin: 5px 0px;
+}
