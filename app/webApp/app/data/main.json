@@ -1,0 +1,52 @@
+[
+    {
+        "typeName": "常用网址",
+        "links": [
+            {
+                "name": "Google",
+                "url": "https://www.google.com",
+                "logoUrl": "https://www.google.com/favicon.ico"
+            },
+            {
+                "name": "Baidu",
+                "url": "http://www.baidu.com",
+                "logoUrl": "https://www.baidu.com/favicon.ico"
+            },
+            {
+                "name": "Baidu",
+                "url": "http://www.baidu.com",
+                "logoUrl": "https://www.baidu.com/favicon.ico"
+            },
+            {
+                "name": "Baidu",
+                "url": "http://www.baidu.com",
+                "logoUrl": "https://www.baidu.com/favicon.ico"
+            }
+        ]
+    },
+    {
+        "typeName": "继续教育",
+        "links": [
+            {
+                "name": "Google",
+                "url": "https://www.google.com",
+                "logoUrl": "https://www.google.com/favicon.ico"
+            },
+            {
+                "name": "Baidu",
+                "url": "http://www.baidu.com",
+                "logoUrl": "https://www.baidu.com/favicon.ico"
+            },
+            {
+                "name": "Baidu",
+                "url": "http://www.baidu.com",
+                "logoUrl": "https://www.baidu.com/favicon.ico"
+            },
+            {
+                "name": "Baidu",
+                "url": "http://www.baidu.com",
+                "logoUrl": "https://www.baidu.com/favicon.ico"
+            }
+        ]
+    }
+]
