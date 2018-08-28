@@ -22,7 +22,7 @@ public class LinkTypeRepositoryTest {
     public void isSaveSuccess(){
         LinkType linkType = new LinkType();
         linkType.setName("常用网址");
-        linkType.setCommom(true);
+        linkType.setCommon(true);
         linkTypeRepository.save(linkType);
     }
 

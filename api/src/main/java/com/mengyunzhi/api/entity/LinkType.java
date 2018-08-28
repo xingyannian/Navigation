@@ -13,9 +13,9 @@ public class LinkType {
     private Long id;
     @NotNull
     private String name;
-    private Boolean isCommom = false;
-    @ManyToOne
-    private User user;
+    private Boolean isCommon = true;
+//    @ManyToOne
+//    private User user;
     public Long getId() {
         return id;
     }
@@ -32,11 +32,19 @@ public class LinkType {
         this.name = name;
     }
 
-    public Boolean getCommom() {
-        return isCommom;
+    public Boolean getCommon() {
+        return isCommon;
     }
 
-    public void setCommom(Boolean commom) {
-        isCommom = commom;
+    public void setCommon(Boolean common) {
+        isCommon = common;
     }
+
+//    public User getUser() {
+//        return user;
+//    }
+//
+//    public void setUser(User user) {
+//        this.user = user;
+//    }
 }

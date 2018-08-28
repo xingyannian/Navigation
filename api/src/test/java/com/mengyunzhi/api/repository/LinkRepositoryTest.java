@@ -30,12 +30,12 @@ public class LinkRepositoryTest {
         List<LinkType> linkTypeList = new ArrayList<>();
         LinkType linkType1 = new LinkType();
         linkType1.setId(1L);
-        linkType1.setCommom(true);
+        linkType1.setCommon(true);
         linkType1.setName("常用网址");
         LinkType linkType2 = new LinkType();
         linkType2.setName("继续教育");
         linkType2.setId(2L);
-        linkType2.setCommom(true);
+        linkType2.setCommon(true);
         linkTypeList.add(linkType1);
         linkTypeList.add(linkType2);
         link.setLinkTypes(linkTypeList);

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>链接类型管理</title>
+</head>
+<body>
+<div>
+    <a th:href="@{/admin/linkType/add}">增加</a>
+</div>
+<table>
+    <tr>
+        <th>id</th>
+        <th>类型名称</th>
+        <th>操作</th>
+    </tr>
+    <tr th:each="linkType : ${data}">
+        <td th:text="${linkTypeStat.count}"></td>
+        <td th:text="${linkType.name}"></td>
+        <td><a th:href="@{/admin/linkType/edit} + ${linkType.id}">编辑</a>|<a th:href="@{/admin/linkType/delete/} + ${linkType.id}">删除</a></td>
+    </tr>
+</table>
+</body>
+</html>
