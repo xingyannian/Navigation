@@ -1,5 +1,5 @@
 <content>
-   {{data}}
+  <!-- {{data}} -->
   <div class="panel panel-default" ng-repeat="i in data">
     <!-- Default panel contents -->
     <div class="panel-heading">{{i.typeName}}</div>
@@ -8,7 +8,8 @@
         <div class="row">
           <div class="col-md-2 col-sm-4 col-xs-6 col-jianju" ng-repeat="item in i.links">
             <a class="bread" href="{{item.url}}" target="_blank" title="{{item.name}}">
-              <img class="nav-logo" src="images/default-link-logo.png"><span class="nav-txt">{{item.name}}</span>
+              <img class="nav-logo" src="{{item.logoUrl}}" src="images/default-link-logo.png">
+              <span class="nav-txt">{{item.name | limitTo : 8}}</span>
             </a>
           </div>
         </div>

@@ -1,52 +1,210 @@
-[
-    {
-        "typeName": "常用网址",
-        "links": [
-            {
-                "name": "Google",
-                "url": "https://www.google.com",
-                "logoUrl": "https://www.google.com/favicon.ico"
-            },
-            {
-                "name": "Baidu",
-                "url": "http://www.baidu.com",
-                "logoUrl": "https://www.baidu.com/favicon.ico"
-            },
-            {
-                "name": "Baidu",
-                "url": "http://www.baidu.com",
-                "logoUrl": "https://www.baidu.com/favicon.ico"
-            },
-            {
-                "name": "Baidu",
-                "url": "http://www.baidu.com",
-                "logoUrl": "https://www.baidu.com/favicon.ico"
-            }
-        ]
-    },
-    {
-        "typeName": "继续教育",
-        "links": [
-            {
-                "name": "Google",
-                "url": "https://www.google.com",
-                "logoUrl": "https://www.google.com/favicon.ico"
-            },
-            {
-                "name": "Baidu",
-                "url": "http://www.baidu.com",
-                "logoUrl": "https://www.baidu.com/favicon.ico"
-            },
-            {
-                "name": "Baidu",
-                "url": "http://www.baidu.com",
-                "logoUrl": "https://www.baidu.com/favicon.ico"
-            },
-            {
-                "name": "Baidu",
-                "url": "http://www.baidu.com",
-                "logoUrl": "https://www.baidu.com/favicon.ico"
-            }
-        ]
-    }
+[{
+    "typeName": "常用网址",
+    "links": [{
+        "name": "谷歌",
+        "url": "https://www.google.com",
+        "logoUrl": "images/web-logo/google.ico"
+      },
+      {
+        "name": "百度",
+        "url": "https://www.baidu.com",
+        "logoUrl": "https://www.baidu.com/favicon.ico"
+      },
+      {
+        "name": "京东",
+        "url": "https://www.jd.com",
+        "logoUrl": "https://www.jd.com/favicon.ico"
+      },
+      {
+        "name": "淘宝",
+        "url": "https://www.taobao.com",
+        "logoUrl": "https://www.taobao.com/favicon.ico"
+      },
+      {
+        "name": "hao123",
+        "url": "https://www.hao123.com/",
+        "logoUrl": "https://www.hao123.com/favicon.ico"
+      },
+      {
+        "name": "知乎",
+        "url": "https://www.zhihu.com/",
+        "logoUrl": "https://www.zhihu.com/favicon.ico"
+      }
+    ]
+  },
+  {
+    "typeName": "学校办公",
+    "links": [{
+        "name": "学校官网",
+        "url": "http://www.dgitc.net",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "智慧校园",
+        "url": "http://m.campus.qq.com/login/index.htm",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "信技云盘",
+        "url": "http://113.108.127.83:8088/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "教学诊断",
+        "url": "http://10.156.234.237:8060/collection/login.action",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "德育量化系统",
+        "url": "http://10.156.234.241/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "心理管理系统",
+        "url": "http://10.156.234.228/xinli/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "学生云主页",
+        "url": "http://s.dgitc.net",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      }
+    ]
+  },
+  {
+    "typeName": "教育资源链接",
+    "links": [{
+        "name": "东莞慧教育",
+        "url": "http://hui.dgjy.net/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "市教育局办公中心",
+        "url": "http://office.dgjy.net/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "职教高地",
+        "url": "http://www.velc.cn/nlogin.do",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "智慧职教",
+        "url": "http://www.icve.com.cn/",
+        "logoUrl": "http://www.icve.com.cn/favicon.ico"
+      },
+      {
+        "name": "全国教学信息化交流展示",
+        "url": "http://www.mtsa1998.com.cn/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "国家教育资源公共服务平台",
+        "url": "http://zj.eduyun.cn/home/index.php",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "中国大学慕课",
+        "url": "https://www.icourse163.org/",
+        "logoUrl": "https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100"
+      },
+      {
+        "name": "爱课程",
+        "url": "http://www.icourses.cn/home/",
+        "logoUrl": "http://www.icourses.cn/web/favicon.ico"
+      },
+      {
+        "name": "中国大学慕课",
+        "url": "https://www.icourse163.org/",
+        "logoUrl": "https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100"
+      },
+      {
+        "name": "中国大学慕课",
+        "url": "https://www.icourse163.org/",
+        "logoUrl": "https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100"
+      }
+
+    ]
+  },
+  {
+    "typeName": "继续教育",
+    "links": [{
+        "name": "省教师继续教育网",
+        "url": "http://www.gdjsgl.com.cn/cms/index",
+        "logoUrl": "http://www.gdjsgl.com.cn/css/cms/www.gdjsgl.com.cn/favicon.ico"
+      },
+      {
+        "name": "省专业技术人员继续教育管理系统",
+        "url": "http://www.gdhrss.gov.cn/jxjy",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "市教师继续教育网",
+        "url": "http://jspx.dgjy.net/index/index.action",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "广东人才继续教育网",
+        "url": "http://www.rcjxjy.com/train/",
+        "logoUrl": "http://www.rcjxjy.com/favicon.ico"
+
+      }
+    ]
+  },
+  {
+    "typeName": "共享资源下载",
+    "links": [{
+        "name": "微课室",
+        "url": "http://113.108.127.83:8088/d/b2aa36f71e/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "录课室",
+        "url": "http://113.108.127.83:8088/d/24ec64ada4/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "常用软件",
+        "url": "http://113.108.127.83:8088/d/ab0686d1a8/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "学校影像",
+        "url": "http://113.108.127.83:8088/d/e47c852c8b/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+
+      }
+    ]
+  },
+  {
+    "typeName": "开发文档",
+    "links": [{
+        "name": "小程序API",
+        "url": "https://developers.weixin.qq.com/miniprogram/dev/api/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "企业微信API",
+        "url": "http://work.weixin.qq.com/api/doc",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "Spring",
+        "url": "http://spring.io/guides",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "Sping Boot Reference",
+        "url": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+
+      },
+      {
+        "name": "AngularJs",
+        "url": "https://docs.angularjs.org/api",
+        "logoUrl": "https://angularjs.org/favicon.ico"
+
+      }
+    ]
+  }
 ]
