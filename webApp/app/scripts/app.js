@@ -37,6 +37,15 @@ angular
         title: '个人收藏'
       }
     })
+    .state({
+      name: 'yunpan',
+      url: '/yunpan',
+      templateUrl: 'views/yunpan.html',
+      controller: 'YunpanCtrl',
+      data: {
+        title: '云盘资料'
+      }
+    })
     $urlRouterProvider.otherwise('/');
   });
   

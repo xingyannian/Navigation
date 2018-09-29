@@ -1,0 +1,135 @@
+[{
+    "typeName": "部门文件上传",
+    "links": [{
+        "name": "校长室",
+        "url": "http://113.108.127.83:8088/u/d/9cc7705b3f/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "办公室",
+        "url": "http://113.108.127.83:8088/u/d/756fb5b441/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "工会",
+        "url": "http://113.108.127.83:8088/u/d/ac95806e00/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "信息中心",
+        "url": "http://113.108.127.83:8088/u/d/15cf2c6b91/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "团委",
+        "url": "http://113.108.127.83:8088/u/d/837bbb14cb/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "计财室",
+        "url": "http://113.108.127.83:8088/u/d/55fcd6f619/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "教研处",
+        "url": "http://113.108.127.83:8088/u/d/f5e2ea505f/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "教务处",
+        "url": "http://113.108.127.83:8088/u/d/e6c2de9bb0/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "职业素养传播中心",
+        "url": "http://113.108.127.83:8088/u/d/234fee4785/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "物管办",
+        "url": "http://113.108.127.83:8088/u/d/c20c39396d/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "质量监督办",
+        "url": "http://113.108.127.83:8088/u/d/df8840d308/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "信息技术系",
+        "url": "http://113.108.127.83:8088/u/d/8c29995fbe/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "机电技术系",
+        "url": "http://113.108.127.83:8088/u/d/f87c6310ce/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "财经商贸系",
+        "url": "http://113.108.127.83:8088/u/d/de135b887d/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "公共基础部",
+        "url": "http://113.108.127.83:8088/u/d/9c3b710eea/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "网络安防专业组",
+        "url": "http://113.108.127.83:8088/u/d/658b7421e3/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "平面设计专业组",
+        "url": "http://113.108.127.83:8088/u/d/6ac1f627db/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "计算机应用专业组",
+        "url": "http://113.108.127.83:8088/u/d/fd6b16566b/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "会计专业组",
+        "url": "http://113.108.127.83:8088/u/d/b3e37a3531/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "电子商务专业组",
+        "url": "http://113.108.127.83:8088/u/d/f9cc88dbbe/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "电子技术专业组",
+        "url": "http://113.108.127.83:8088/u/d/ff51378a61/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "电气技术专业组",
+        "url": "http://113.108.127.83:8088/u/d/0443d4ed9f/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "德体艺科组",
+        "url": "http://113.108.127.83:8088/u/d/8220b07c24/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "英语科组",
+        "url": "http://113.108.127.83:8088/u/d/e723cd1a20/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "数学课组",
+        "url": "http://113.108.127.83:8088/u/d/15e63005f3/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "语文科组",
+        "url": "http://113.108.127.83:8088/u/d/7b15585010/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      } 
+    ]
+  }
+]

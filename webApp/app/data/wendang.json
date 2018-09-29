@@ -1,0 +1,39 @@
+[
+  {
+    "typeName": "开发文档",
+    "links": [{
+        "name": "小程序API",
+        "url": "https://developers.weixin.qq.com/miniprogram/dev/api/",
+        "logoUrl": "https://developers.weixin.qq.com/miniprogram/assets/images/favicon.ico?t=18082922"
+      },
+      {
+        "name": "企业微信API",
+        "url": "http://work.weixin.qq.com/api/doc",
+        "logoUrl": "http://rescdn.qqmail.com/node/wwopen/wwopenmng/style/images/independent/favicon/favicon_48h$c976bd14.png"
+      },
+      {
+        "name": "Spring",
+        "url": "http://spring.io/guides",
+        "logoUrl": "https://spring.io/img/favicon-ca31b78daf0dd9a106bbf3c6d87d4ec7.png"
+      },
+      {
+        "name": "Sping Boot Reference",
+        "url": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/",
+        "logoUrl": "https://spring.io/img/favicon-ca31b78daf0dd9a106bbf3c6d87d4ec7.png"
+
+      },
+      {
+        "name": "AngularJs",
+        "url": "https://docs.angularjs.org/api",
+        "logoUrl": "https://angularjs.org/favicon.ico"
+
+      }, 
+      {
+        "name": "微信公众平台",
+        "url": "https://mp.weixin.qq.com/",
+        "logoUrl": "https://mp.weixin.qq.com/favicon.ico"
+
+      }
+    ]
+  }
+]

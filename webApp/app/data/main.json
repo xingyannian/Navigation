@@ -29,6 +29,16 @@
         "name": "知乎",
         "url": "https://www.zhihu.com/",
         "logoUrl": "https://www.zhihu.com/favicon.ico"
+      },
+      {
+        "name": "腾讯问卷",
+        "url": "https://wj.qq.com/",
+        "logoUrl": "https://wj.qq.com/favicon.ico"
+      }, 
+      {
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/",
+        "logoUrl": "https://pan.baidu.com/box-static/disk-system/images/favicon.ico"
       }
     ]
   },
@@ -68,12 +78,8 @@
         "name": "学生云主页",
         "url": "http://s.dgitc.net",
         "logoUrl": "images/web-logo/default-link-logo.png"
-      }
-    ]
-  },
-  {
-    "typeName": "教育资源链接",
-    "links": [{
+      },
+      {
         "name": "东莞慧教育",
         "url": "http://hui.dgjy.net/",
         "logoUrl": "images/web-logo/default-link-logo.png"
@@ -82,7 +88,12 @@
         "name": "市教育局办公中心",
         "url": "http://office.dgjy.net/",
         "logoUrl": "images/web-logo/default-link-logo.png"
-      },
+      }
+    ]
+  },
+  {
+    "typeName": "教育资源链接",
+    "links": [
       {
         "name": "职教高地",
         "url": "http://www.velc.cn/nlogin.do",
@@ -112,18 +123,7 @@
         "name": "爱课程",
         "url": "http://www.icourses.cn/home/",
         "logoUrl": "http://www.icourses.cn/web/favicon.ico"
-      },
-      {
-        "name": "中国大学慕课",
-        "url": "https://www.icourse163.org/",
-        "logoUrl": "https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100"
-      },
-      {
-        "name": "中国大学慕课",
-        "url": "https://www.icourse163.org/",
-        "logoUrl": "https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100"
-      }
-
+      }  
     ]
   },
   {
@@ -172,37 +172,6 @@
         "name": "学校影像",
         "url": "http://113.108.127.83:8088/d/e47c852c8b/",
         "logoUrl": "images/web-logo/default-link-logo.png"
-
-      }
-    ]
-  },
-  {
-    "typeName": "开发文档",
-    "links": [{
-        "name": "小程序API",
-        "url": "https://developers.weixin.qq.com/miniprogram/dev/api/",
-        "logoUrl": "images/web-logo/default-link-logo.png"
-      },
-      {
-        "name": "企业微信API",
-        "url": "http://work.weixin.qq.com/api/doc",
-        "logoUrl": "images/web-logo/default-link-logo.png"
-      },
-      {
-        "name": "Spring",
-        "url": "http://spring.io/guides",
-        "logoUrl": "images/web-logo/default-link-logo.png"
-      },
-      {
-        "name": "Sping Boot Reference",
-        "url": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/",
-        "logoUrl": "images/web-logo/default-link-logo.png"
-
-      },
-      {
-        "name": "AngularJs",
-        "url": "https://docs.angularjs.org/api",
-        "logoUrl": "https://angularjs.org/favicon.ico"
 
       }
     ]

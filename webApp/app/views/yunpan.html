@@ -6,10 +6,10 @@
     <div class="panel-body">
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-3 col-sm-4 col-xs-6 col-jianju" ng-repeat="item in i.links">
+          <div class="col-md-2 col-sm-4 col-xs-6 col-jianju" ng-repeat="item in i.links">
             <a class="bread" href="{{item.url}}" target="_blank" title="{{item.name}}">
               <img class="nav-logo" src="{{item.logoUrl}}">
-              <span class="nav-txt">{{item.name}}</span>
+              <span class="nav-txt">{{item.name | limitTo : 8}}</span>
             </a>
           </div>
         </div>

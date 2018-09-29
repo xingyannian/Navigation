@@ -8,12 +8,12 @@
  * 热点问题
  */
 angular.module('webAppApp')
-  .controller('PersonCtrl', function ($scope, $http) {
+  .controller('YunpanCtrl', function ($scope, $http) {
     var self = this;
     self.init = function () {
 
       // 先获取本地数据，用于显示
-      var url = 'data/wendang.json';
+      var url = 'data/yunpan.json';
       $http.get(url)
         .then(function success(response) {
           $scope.data = response.data;
