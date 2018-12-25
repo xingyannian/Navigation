@@ -6,3 +6,5 @@
 
 *.tar
 /test
+/.idea
+/.vscode
