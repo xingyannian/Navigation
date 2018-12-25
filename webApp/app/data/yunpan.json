@@ -6,6 +6,11 @@
         "logoUrl": "images/web-logo/default-link-logo.png"
       },
       {
+        "name": "党总支部",
+        "url": "http://113.108.127.83:8088/u/d/dadb76a4a7/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
         "name": "办公室",
         "url": "http://113.108.127.83:8088/u/d/756fb5b441/",
         "logoUrl": "images/web-logo/default-link-logo.png"
@@ -16,8 +21,18 @@
         "logoUrl": "images/web-logo/default-link-logo.png"
       },
       {
+        "name": "总务处",
+        "url": "http://113.108.127.83:8088/u/d/29fbf1cb9f/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
         "name": "信息中心",
         "url": "http://113.108.127.83:8088/u/d/15cf2c6b91/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "学生处",
+        "url": "http://113.108.127.83:8088/u/d/fc97c03f30/",
         "logoUrl": "images/web-logo/default-link-logo.png"
       },
       {
@@ -41,8 +56,23 @@
         "logoUrl": "images/web-logo/default-link-logo.png"
       },
       {
+        "name": "培训就业处",
+        "url": "http://113.108.127.83:8088/u/d/0dec8eb8bc/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
         "name": "职业素养传播中心",
         "url": "http://113.108.127.83:8088/u/d/234fee4785/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "技能鉴定中心",
+        "url": "http://113.108.127.83:8088/u/d/06e274dce1/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "实训中心",
+        "url": "http://113.108.127.83:8088/u/d/f8654500c8/",
         "logoUrl": "images/web-logo/default-link-logo.png"
       },
       {
@@ -128,6 +158,165 @@
       {
         "name": "语文科组",
         "url": "http://113.108.127.83:8088/u/d/7b15585010/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      } 
+    ]
+  },
+  {
+    "typeName": "部门文件下载",
+    "links": [{
+        "name": "校长室",
+        "url": "http://113.108.127.83:8088/d/fc64e20c61/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "党总支部",
+        "url": "http://113.108.127.83:8088/d/63dda434df/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "工会",
+        "url": "http://113.108.127.83:8088/d/3d2f88aac9/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "办公室",
+        "url": "http://113.108.127.83:8088/d/855894e808/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "学生处",
+        "url": "http://113.108.127.83:8088/d/2196932f18/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "团委",
+        "url": "http://113.108.127.83:8088/d/5ea39e2dc0/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "总务处",
+        "url": "http://113.108.127.83:8088/d/e2e4872112/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "教研处",
+        "url": "http://113.108.127.83:8088/d/db2b5933bd/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "信息中心",
+        "url": "http://113.108.127.83:8088/d/3da2cf3f69/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "教务处",
+        "url": "http://113.108.127.83:8088/d/28e91a74b8/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "培训就业处",
+        "url": "http://113.108.127.83:8088/d/c60468a2b3/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "技能鉴定中心",
+        "url": "http://113.108.127.83:8088/d/9ecf8c6afd/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "实训中心",
+        "url": "http://113.108.127.83:8088/d/15046acab8/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "质量监督办",
+        "url": "http://113.108.127.83:8088/d/850e423aef/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "计财室",
+        "url": "http://113.108.127.83:8088/d/cee27ab530/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "物管办",
+        "url": "http://113.108.127.83:8088/d/fd76627f8b/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "信息技术系",
+        "url": "http://113.108.127.83:8088/d/047d2a0f57/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "机电技术系",
+        "url": "http://113.108.127.83:8088/d/444eff0081/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "财经商贸系",
+        "url": "http://113.108.127.83:8088/d/ec89f02935/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "公共基础部",
+        "url": "http://113.108.127.83:8088/d/bcb00e8fad/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "网络安防专业组",
+        "url": "http://113.108.127.83:8088/d/37161f0d21/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "平面设计专业组",
+        "url": "http://113.108.127.83:8088/d/8187613d29/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "计算机应用专业组",
+        "url": "http://113.108.127.83:8088/d/0997b9bca4/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "会计专业组",
+        "url": "http://113.108.127.83:8088/d/7d7ff777e1/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "电子商务专业组",
+        "url": "http://113.108.127.83:8088/d/dc41f68359/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "电子技术专业组",
+        "url": "http://113.108.127.83:8088/d/8663b460a4/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "电气技术专业组",
+        "url": "http://113.108.127.83:8088/d/3b40b96208/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "德体艺科组",
+        "url": "http://113.108.127.83:8088/d/9fb3bd99ce/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "英语科组",
+        "url": "http://113.108.127.83:8088/d/2a281763d8/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "数学课组",
+        "url": "http://113.108.127.83:8088/d/fa1446625d/",
+        "logoUrl": "images/web-logo/default-link-logo.png"
+      },
+      {
+        "name": "语文科组",
+        "url": "http://113.108.127.83:8088/d/70bb54f41e/",
         "logoUrl": "images/web-logo/default-link-logo.png"
       } 
     ]

@@ -36,6 +36,16 @@
         "logoUrl": "https://wj.qq.com/favicon.ico"
       }, 
       {
+        "name": "腾讯文档",
+        "url": "https://docs.qq.com/",
+        "logoUrl": "https://s1.url.cn/tim/docs/favicon.ico"
+      },
+      {
+        "name": "腾讯云",
+        "url": "https://cloud.tencent.com/",
+        "logoUrl": "https://cloud.tencent.com/favicon.ico?t=201712261610"
+      },
+      {
         "name": "百度网盘",
         "url": "https://pan.baidu.com/",
         "logoUrl": "https://pan.baidu.com/box-static/disk-system/images/favicon.ico"
@@ -76,7 +86,7 @@
       },
       {
         "name": "学生云主页",
-        "url": "http://s.dgitc.net",
+        "url": "http://123.207.150.233/",
         "logoUrl": "images/web-logo/default-link-logo.png"
       },
       {
